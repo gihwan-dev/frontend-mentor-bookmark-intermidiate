@@ -1,0 +1,10 @@
+@import "@/styles/variable.scss";
+
+.btn {
+  background-color: $Soft-Red;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  padding: 0.8rem 2.2rem;
+  letter-spacing: 1.2px;
+}
