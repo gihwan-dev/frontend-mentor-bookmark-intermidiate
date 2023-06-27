@@ -1,0 +1,23 @@
+.header {
+  margin-top: 2rem;
+  nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    ul {
+      margin-left: 0;
+      padding-left: 0;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+
+      li {
+        letter-spacing: 1.2px;
+        list-style: none;
+        margin-right: 3vw;
+      }
+    }
+  }
+}
